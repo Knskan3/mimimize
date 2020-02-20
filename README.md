@@ -8,6 +8,6 @@ In example:
 
 > You: Hiy didi, this is nit whit yii iri sippisid ti di niw!
 
-Avoid wasting ours in doing it your self manually, just automate it with mimize.
+Avoid wasting hours doing it by your self, just automate it with mimimize.
 
 You are welcome :)
