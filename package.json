@@ -1,0 +1,20 @@
+{
+	"name": "mimimizer",
+	"version": "1.0.0",
+	"description": "mimimizes any string you might need to mimimize",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [
+		"mi",
+		"mimi",
+		"mimimi",
+		"mimimizer"
+	],
+	"author": "Javier Cobos",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^25.1.0"
+	}
+}
