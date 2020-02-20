@@ -20,8 +20,7 @@
   "author": "Javier Cobos",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^25.1.0",
-    "uglify-js": "^3.8.0"
+    "jest": "^25.1.0"
   },
   "dependencies": {}
 }
