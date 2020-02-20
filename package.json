@@ -2,14 +2,14 @@
   "name": "mimimize",
   "version": "2.6.0",
   "description": "mimimizes any string you might need to mimimize",
-  "main": "index.js",
+  "main": "index.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Knskan3/mimimize"
   },
   "scripts": {
     "test": "jest",
-    "prepublish": "uglifyjs -o myfile.min.js myfile.js"
+    "prepublish": "uglifyjs index.js -o index.min.js"
   },
   "keywords": [
     "mi",
