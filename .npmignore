@@ -1,2 +1,5 @@
 index.js
 node_modules
+index.test.js
+README.md
+package.json
