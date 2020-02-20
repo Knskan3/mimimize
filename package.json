@@ -8,7 +8,8 @@
     "url": "https://github.com/Knskan3/mimimize"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepublish": "uglifyjs -o myfile.min.js myfile.js"
   },
   "keywords": [
     "mi",
@@ -21,5 +22,8 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "uglify-js": "^3.8.0"
   }
 }
