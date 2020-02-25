@@ -1,4 +1,4 @@
-## Mimimizer
+## Mimimize
 
 This a module to help you with those annoying smart comments you might need to mimimize.
 
