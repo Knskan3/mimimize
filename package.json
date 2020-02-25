@@ -1,6 +1,6 @@
 {
   "name": "mimimize",
-  "version": "2.14.0",
+  "version": "2.15.0",
   "description": "mimimizes any string you might need to mimimize",
   "main": "index.min.js",
   "repository": {
